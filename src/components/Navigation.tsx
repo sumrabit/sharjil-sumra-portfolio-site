@@ -25,7 +25,7 @@ const Navigation = () => {
             <img 
               src="/lovable-uploads/6daef2db-34c3-48ec-91a1-4d2fdb5a1f2e.png" 
               alt="Sumax.online" 
-              className="h-10 w-auto" 
+              className="w-80 h-auto" 
             />
           </Link>
 
